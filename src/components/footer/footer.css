@@ -1,0 +1,16 @@
+/* ********************** */
+/* PRE SETS 
+
+Main Color #fff
+border #ebebeb
+
+*/
+
+footer {
+  text-align: center;
+  background-color: #fff;
+  max-width: 125rem;
+  margin: 0 2.5rem;
+  padding: 3.2rem 4.8rem;
+  border-top: 1px solid #ebebeb;
+}

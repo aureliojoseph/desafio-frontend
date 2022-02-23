@@ -1,0 +1,31 @@
+/* ********************** */
+/* PRE SETS 
+
+Main Color #fff
+h2 color #3a3a3a
+
+*/
+
+header {
+  background-color: #fff;
+  max-width: 125rem;
+  margin: 0 2.5rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heading-sec {
+  color: #019973;
+  font-size: 1.6rem;
+  margin-right: 2.5rem;
+}
+
+.logo {
+  color: #019973;
+  font-size: 1.6rem;
+  margin-left: 2.5rem;
+}
