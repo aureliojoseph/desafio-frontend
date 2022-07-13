@@ -1,8 +1,8 @@
-# ### Página de teste para demonstração de POC de nova feature.
+# Página de teste para demonstração de POC de nova feature.
 
 A proposta é construir a nova experiência em gestão de dados da empresa, com o objetivo de dar aos clientes uma nova forma de organizar os dados da conta.
 
-# Na prova de conceito (POC) dessa nova experiência, o usuário deve conseguir executar:
+### Na prova de conceito (POC) dessa nova experiência, o usuário deve conseguir executar:
 
 1. Carregar um arquivo csv via drag and drop;
 
